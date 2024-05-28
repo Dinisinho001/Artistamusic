@@ -1,0 +1,46 @@
+ <div class="bn">
+          <div class="song-item">
+            <button class="play-button">&#9658;</button>
+            <div class="song-info">
+              <p class="song-title">UUUUHH</p>
+              <p class="artist-name">T-Rex</p>
+            </div>
+            <div class="song-actions">
+              <span class="song-duration">3:35</span>
+            </div>
+            <audio id="audio" src="music/Gangsta.mp3"></audio>
+          </div>
+          <div class="song-item">
+                                    <button class="play-button">&#9658;</button>
+                                    <div class="song-info">
+                                      <p class="song-title">NÃO É POSSÍVEL</p>
+                                      <p class="artist-name">T-Rex</p>
+                                    </div>
+                                    <div class="song-actions">
+                                      <span class="song-duration">3:35</span>
+                                    </div>
+                                    <audio id="audio" src="music/Gangsta.mp3"></audio>
+                                  </div>
+                                  <div class="song-item">
+    <button class="play-button">&#9658;</button>
+    <div class="song-info">
+      <p class="song-title">SURVIVA</p>
+      <p class="artist-name">T-Rex</p>
+    </div>
+    <div class="song-actions">
+      <span class="song-duration">3:35</span>
+    </div>
+    <audio id="audio" src="music/Gangsta.mp3"></audio>
+  </div>
+  <div class="song-item">
+                                      <button class="play-button">&#9658;</button>
+                                      <div class="song-info">
+                                        <p class="song-title">MEMÓRIA</p>
+                                        <p class="artist-name">T-Rex</p>
+                                      </div>
+                                      <div class="song-actions">
+                                        <span class="song-duration">3:35</span>
+                                      </div>
+                                      <audio id="audio" src="music/Gangsta.mp3"></audio>
+                                    </div>
+  </div>
